@@ -35,5 +35,17 @@ I'm a Computer Science student at Concordia University, St. Paul, with interests
   - **Email:** Patricoyegade19@gmail.com
   - **GitHub:** https://github.com/poyegade
 
+**About Me**
+🏠 Direct Support Professional 
+⚽ Soccer Coach
+💻 Computer Science Student
+🚗 Interested in technology and problem-solving
+🌱 Always learning and looking for opportunities to grow
+
+**Fun Facts**
+- I enjoy coaching and mentoring others
+- I like exploring new technology tools.
+- I balance school, work, and leadership responsibilities.
+
 <!--
 -->
