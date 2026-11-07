@@ -2,7 +2,8 @@
 Hi, I'm **Patric Oyegade** 👋
 Welcome to my GitHub profile!
 
-I'm a Computer Science student at Concordia University, St. Paul, with interests in software development, problem-solving, and technology. I enjoy learning new programming concepts and applying them through hands-on projects.
+I'm a Computer Science student at Concordia University, St. Paul, with interests in software development, problem-solving, and technology. 
+I enjoy learning new programming concepts and applying them through hands-on projects.
 
 **Technical Skills (Programming Languages)**
 - Java
@@ -30,6 +31,7 @@ I'm a Computer Science student at Concordia University, St. Paul, with interests
 - Database program to support a futsal program
 - Coursework projects for Computer Science
 - Personal coding practice and portfolio development
+
 **Connect With Me**
   - **LinkedIn:** www.linkedin.com/in/patric-oyegade
   - **Email:** Patricoyegade19@gmail.com
