@@ -21,11 +21,14 @@ I'm a Computer Science student at Concordia University, St. Paul, with interests
 - Data Stuctures & Algorithms
 - Computer Architecture
 - Software Engineering principles
-  
 
+**Current Learning Objectives**
+- Strengthen my Java programming skills
+- Improve problem-solving through algorithms
+
+**Current Projects**
+- Database program to support a futsal program
+- Coursework projects for Computer Science
+- Personal coding practice and portfolio development
 <!--
-
-
-
-
 -->
