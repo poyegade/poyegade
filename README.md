@@ -30,5 +30,10 @@ I'm a Computer Science student at Concordia University, St. Paul, with interests
 - Database program to support a futsal program
 - Coursework projects for Computer Science
 - Personal coding practice and portfolio development
+**Connect With Me**
+  - **LinkedIn:** www.linkedin.com/in/patric-oyegade
+  - **Email:** Patricoyegade19@gmail.com
+  - **GitHub:** https://github.com/poyegade
+
 <!--
 -->
